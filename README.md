@@ -17,3 +17,7 @@ It has also fixed the position of the hole for USB and Ethernet (on the left) vi
 - [DXF file](https://github.com/aetas/mqgateway-case/raw/main/CAD/mqgateway-front.dxf)
 - [SVG File](https://github.com/aetas/mqgateway-case/raw/main/mqgateway-front.svg)
 - [PDF](https://github.com/aetas/mqgateway-case/raw/main/mqgateway-front.pdf)
+
+
+## Issues
+If you have any problems with the project - please create an issue in the [aetas/mqgateway repository](https://github.com/aetas/mqgateway).

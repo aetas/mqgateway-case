@@ -13,7 +13,7 @@ CAD project describes cutting front of the case.
 It has also fixed the position of the hole for USB and Ethernet (on the left) visible on the photo above.
 
 #### Download:
-- [FreeCad file](CAD/mqgateway-front.FCStd)
-- [DXF file](CAD/mqgateway-front.dxf)
-- [SVG File](mqgateway-front.svg)
-- [PDF](mqgateway-front.pdf)
+- [FreeCad file](https://github.com/aetas/mqgateway-case/raw/main/CAD/mqgateway-front.FCStd)
+- [DXF file](https://github.com/aetas/mqgateway-case/raw/main/CAD/mqgateway-front.dxf)
+- [SVG File](https://github.com/aetas/mqgateway-case/raw/main/mqgateway-front.svg)
+- [PDF](https://github.com/aetas/mqgateway-case/raw/main/mqgateway-front.pdf)
